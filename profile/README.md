@@ -9,12 +9,18 @@ Disclaimer: GDG Cloud Kolkata is an independent group; our activities and the op
 
 ### What We Do?
 
-- Conduct monthly events on Google Cloud Technologies and open source technologies.
-- Conduct an annual mega event **Google Cloud Community Days**.
-- Host contests and support the local communities with mentorship, speakers, partnerships _(TnC applied)_.
+- Conduct events designed for technical developers and practitioners who focus on enhancing their skills in open source technologies and focus on the Cloud via the Google Cloud Platform. These events include hands-on sessions, talks, and practical demonstrations of applications built using these technologies.
+
+- Conduct monthly events, usually on the **2nd Saturday of the month**. Engage with the attendees through interactive sessions and quizzes. These events provide networking opportunities to the attendees with fellow attendees and Industry Experts who join us as guests or Speakers.
+
+- Provide awesome GDG Cloud Kolkata swags on participating, winning quizzes, and completing sessions. Sometimes even for attending the event.
+
+- Conduct an annual mega event **Google Cloud Community Days**. This event features a mega lineup of the industry’s expert resources who share their knowledge and expertise on what’s hot in the industry. This event features a huge footfall and networking opportunities. Many fellow recruiters also join us in search of talent.
+
+- Support other local communities with mentorship, contests support, speakers, partnerships, and goodies as prizes. _(Terms and Conditions applied)_
 
 ### Connect
 
 - Mail: <gdgcloudkol@gmail.com>, <hello@gdgcloudkol.org>
-- Socials: **gdgcloudkol** across all social platforms.
+- Socials: **gdgcloudkol** across all social platforms, [Socials](https://social.gdgcloudkol.org)
 - Hashtags: _#gdgcloudkol_
