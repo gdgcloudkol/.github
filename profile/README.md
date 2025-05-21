@@ -15,7 +15,7 @@ Disclaimer: GDG Cloud Kolkata is an independent group; our activities and the op
 
 - Provide awesome GDG Cloud Kolkata swags on participating, winning quizzes, and completing sessions. Sometimes even for attending the event.
 
-- Conduct an annual mega event **Google Cloud Community Days**. This event features a mega lineup of the industry’s expert resources who share their knowledge and expertise on what’s hot in the industry. This event features a huge footfall and networking opportunities. Many fellow recruiters also join us in search of talent.
+- Conduct an annual mega event **Google Cloud Community Days**. This event features a mega lineup of the industry’s expert resources who share their knowledge and expertise on what’s hot in the industry. #CCDGH2025 This event features a huge footfall and networking opportunities. Many fellow recruiters also join us in search of talent.
 
 - Support other local communities with mentorship, contests support, speakers, partnerships, and goodies as prizes. _(Terms and Conditions applied)_
 
